@@ -4,11 +4,11 @@ Somos el **Área de Tecnología Educativa (ATE) de la Dirección General de Orde
 
 Desde el Área ofrecemos a la comunidad educativa **servicios, herramientas, recursos digitales, formación, asesoramiento y apoyo**, y participamos en proyectos relacionados con la innovación educativa y el uso de tecnologías emergentes.
 
-## Qué encontrarás aquí
+## Qué encontrarán aquí
 
 En GitHub compartimos desarrollos, herramientas y recursos tecnológicos creados o adaptados desde el Área, así como contribuciones a proyectos de software libre utilizados en el ámbito educativo.
 
-Entre nuestros proyectos encontrarás trabajos relacionados con **Moodle, eXeLearning, Omeka S, WordPress** y otras tecnologías empleadas para prestar servicios a la comunidad educativa.
+Entre nuestros proyectos encontrarán trabajos relacionados con **Moodle, eXeLearning, Omeka S, WordPress** y otras tecnologías empleadas para prestar servicios a la comunidad educativa.
 
 ## Software libre y colaboración
 
